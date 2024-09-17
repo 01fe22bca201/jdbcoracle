@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Vaishnavi V Rao\\Downloads\\sqldeveloper-23.1.1.345.2114-x64\\sqldeveloper\\jdbc\\lib\\ojdbc11.jar"
+    ]
+}
